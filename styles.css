@@ -292,6 +292,10 @@ li a:hover {
     height: 30vh;
 }
 
+.bottom__div p {
+    font-family: sans-serif;
+}
+
 .landing__bottom div h3 {
     font-size: 27pt;
     font-weight: 700;
